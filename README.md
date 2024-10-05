@@ -13,12 +13,12 @@ This Flutter app allows users to input a location and display it on a map, demon
 
 ### Location Input Screen
 
-![WhatsApp Image 2024-10-05 at 15 00 35_fcd7e6e5](https://github.com/user-attachments/assets/9ba669e8-05a1-4289-a8d1-4beda99891e3)
+![WhatsApp Image 2024-10-05 at 15 00 35_8fc5e691](https://github.com/user-attachments/assets/b65dab8e-461b-480c-9022-54a79bac37aa)
+
 
 ### Map Display Screen
 
-![WhatsApp Image 2024-10-05 at 15 00 34_f2071625](https://github.com/user-attachments/assets/a5c71e44-9389-4147-9aa2-1cb4d3388547)
-![WhatsApp Image 2024-10-05 at 15 00 34_139acbb0](https://github.com/user-attachments/assets/a8c50d7e-8cab-43b9-a62d-12cbacea8de4)
+![WhatsApp Image 2024-10-05 at 15 00 34_8b1d01f4](https://github.com/user-attachments/assets/705f394d-079c-45b8-bf4c-bafd7d50d3e8)
 
 
 
